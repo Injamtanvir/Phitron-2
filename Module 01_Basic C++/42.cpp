@@ -2,10 +2,11 @@
 
 //Array String
 #include <iostream>
+#include <string.h>
 using namespace std;
 int main(){
-    for (int i = 1; i <= 5; i++){
-        cout << "Hello Injam" << endl;
-    }
+    char s[100];
+    cin >> s;
+    cout << strlen(s) << endl;
     return 0;
 }
