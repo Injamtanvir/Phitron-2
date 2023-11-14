@@ -1,6 +1,6 @@
 //InjamTanvir
 
-// Dynamic variable usinggg
+// Dynamic variable using
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int x = 9;
+    int x;
     cin >> x;
     switch (x % 2){
         case 0:
