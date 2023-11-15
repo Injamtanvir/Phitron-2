@@ -1,2 +1,1 @@
-Injam Ul Haque 29 3.45
-Tanvir Ahmed 30 3.85
+50 40 30 20 10 

@@ -1,5 +1,6 @@
 //InjamTanvir
 
+//Class and Object
 #include<bits/stdc++.h>
 using namespace std;
 class Student{
